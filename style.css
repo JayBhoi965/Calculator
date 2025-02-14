@@ -15,3 +15,33 @@
             user-select: none;
         }
 
+
+        .maincalc {
+            height: 500px;
+            width: 320px;
+            background: rgba(255, 255, 255, 0.33);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(7.6px);
+            -webkit-backdrop-filter: blur(7.6px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            display: grid;
+            grid-template-rows: 1fr 4fr;
+            gap: 1rem;
+            padding: 1rem;
+        }
+
+        .display {
+            background-color: rgba(255, 255, 255, 0.85);
+            width: 100%;
+            height: 4rem;
+            border-radius: 1rem;
+            display: flex;
+            padding-right: 15px;
+            justify-content: end;
+            align-items: center;
+            font-size: 1.5rem;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+
