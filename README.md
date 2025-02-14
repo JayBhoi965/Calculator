@@ -16,6 +16,7 @@ A sleek and fully functional **calculator** built using **HTML, CSS, and JavaScr
 - **JavaScript**: Logic and functionality
 
 ## Preview
-*(Attach a screenshot or GIF of the calculator here)*
+![image](https://github.com/user-attachments/assets/7e04f09b-58bb-4667-af28-6a7a85e2a1b6)
+
 
 ## Project Structure
