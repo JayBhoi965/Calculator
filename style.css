@@ -73,4 +73,25 @@
         }
 
 
+        .operator {
+            background-color: rgb(240, 94, 138);
+            color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            transition: transform 0.1s;
+        }
+
+        .operator:hover {
+            transform: scale(1.05);
+        }
+
+        #clear {
+            grid-column: span 2;
+            background-color: #f44336;
+            color: #fff;
+        }
+
+        #clear:hover {
+            background-color: #e53935;
+        }
+
 
