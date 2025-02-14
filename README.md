@@ -29,7 +29,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/JayBhoi965/Calculator.git
 Open index.html in a browser.
 Future Enhancements
 Add support for parentheses ().
