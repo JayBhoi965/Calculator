@@ -1,5 +1,6 @@
-Simple Calculator (HTML, CSS, JavaScript)
+#Simple Calculator (HTML, CSS, JavaScript)
 A sleek and fully functional calculator built using HTML, CSS, and JavaScript. This project provides basic arithmetic operations with a responsive and visually appealing UI.
+<hl>
 
 Features
 Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (×), and Division (÷).
