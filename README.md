@@ -16,3 +16,4 @@
 1. **Clone this repository**:  
    ```bash
    git clone https://github.com/JayBhoi965/Calculator.git
+2. And open index.html in Web-Browser
